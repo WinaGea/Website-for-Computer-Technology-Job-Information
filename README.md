@@ -112,5 +112,4 @@ and is included as part of my academic portfolio.
 # 🏷️ License
 
 This project is licensed under the MIT License.
-See: LICENSE
 
