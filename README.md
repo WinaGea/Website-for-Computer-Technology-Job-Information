@@ -41,27 +41,29 @@ Created with WordPress, making it easy to update content, manage articles, and e
 
 ### 🏠 Home Page  
 <p align="center">
-  <img src="assets/level 0 home.jpg" width="70%" alt="Home Page">
+  <img src="assets/level 0 home.jpg" width="50%" alt="Home Page">
+  <img src="assets/level 0 home_1.png" width="50%" alt="Home Page">
 </p>
 
 ### 💼 Job Types  
 <p align="center">
-  <img src="assets/level 1_jenis pekerjaan_1.jpg" width="70%" alt="Job Types Page">
+  <img src="assets/level 1_jenis pekerjaan.png" width="50%" alt="Job Types Page">
+   <img src="assets/level 1_jenis pekerjaan_1.jpg" width="50%" alt="Job Types Page">
 </p>
 
 ### 📘 Career Guide  
 <p align="center">
-  <img src="assets/level 2_panduan karir.png" width="70%" alt="Career Guide Page">
+  <img src="assets/level 2_panduan karir.png" width="50%" alt="Career Guide Page">
 </p>
 
 ### 🌱 Self Development  
 <p align="center">
-  <img src="assets/level 2_pengembangan diri.png" width="70%" alt="Self Development Page">
+  <img src="assets/level 2_pengembangan diri.png" width="50%" alt="Self Development Page">
 </p>
 
 ### 👥 About Us  
 <p align="center">
-  <img src="assets/level 1_about us.png" width="70%" alt="About Us Page">
+  <img src="assets/level 1_about us.png" width="50%" alt="About Us Page">
 </p>
 
 ---
