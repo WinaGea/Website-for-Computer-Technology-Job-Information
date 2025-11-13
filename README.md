@@ -42,7 +42,10 @@ Created with WordPress, making it easy to update content, manage articles, and e
 ### 🏠 Home Page  
 <p align="center">
   <img src="assets/level 0 home.jpg" width="50%" alt="Home Page">
-  <img src="assets/level 0 home_1.png" width="50%" alt="Home Page">
+<p align="center">
+  <img src="assets/level%200_home_1.png" width="60%" alt="Home Page">
+</p>
+
 </p>
 
 ### 💼 Job Types  
